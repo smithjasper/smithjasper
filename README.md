@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jasper
+- 👀 I’m interested in computer graphics
+- 🌱 I’m currently learning functional programming via OCaml
